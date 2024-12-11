@@ -1,6 +1,6 @@
-# Rocket Feed
+# Ignite Feed
 
-Welcome to **Rocket Feed**, a simple and interactive project built with React and JavaScript. This project was developed to display a list of posts, simulating a social media feed, and is a great exercise to enhance your skills with React and JavaScript. Additionally, a TypeScript version of the project is available to help you further understand and apply TypeScript concepts.
+Welcome to **Ignite Feed**, a simple and interactive project built with React and JavaScript. This project was developed to display a list of posts, simulating a social media feed, and is a great exercise to enhance your skills with React and JavaScript. Additionally, a TypeScript version of the project is available to help you further understand and apply TypeScript concepts.
 
 ## Project Structure
 
@@ -37,14 +37,17 @@ Navigate to the desired project folder (e.g., ignite-feed or ignite-feed-ts), an
 
 ```bash
 npm install
-Run the Development Server
-After the dependencies are installed, run the following command to start the development server:
 ```
+
+Run the Development Server. After the dependencies are installed, run the following command to start the development server:
+
 
 ```bash
 npm start
-This will launch the application in your browser, typically at http://localhost:3000.
 ```
+
+This will launch the application in your browser, typically at http://localhost:3000.
+
 
 ### Exploring the Folders
 ignite-feed:
@@ -58,12 +61,7 @@ This folder contains the TypeScript version of the project. Here, the JavaScript
 - Learn how to apply TypeScript's type-safety features, including type annotations, interfaces, and generics.
 - Compare JavaScript and TypeScript approaches to developing React applications.
 - Technologies Used: 
-React (for building UI components)
-JavaScript (for the ignite-feed folder)
-TypeScript (for the ignite-feed-ts folder)
-CSS (for styling the components)
-Contributing
-Feel free to fork the repository and contribute to it. If you have any improvements or suggestions, create a pull request with your changes.
+React (for building UI components), JavaScript (for the ignite-feed folder), TypeScript (for the ignite-feed-ts folder), CSS modules (for styling the components);
 
 ### License
 This project is open-source and available under the MIT License.
