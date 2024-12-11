@@ -65,3 +65,8 @@ React (for building UI components), JavaScript (for the ignite-feed folder), Typ
 
 ### License
 This project is open-source and available under the MIT License.
+
+### ⚙️
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
