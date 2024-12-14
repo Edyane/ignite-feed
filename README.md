@@ -61,7 +61,7 @@ This folder contains the TypeScript version of the project. Here, the JavaScript
 - Learn how to apply TypeScript's type-safety features, including type annotations, interfaces, and generics.
 - Compare JavaScript and TypeScript approaches to developing React applications.
 - Technologies Used: 
-React (for building UI components), JavaScript (for the ignite-feed folder), TypeScript (for the ignite-feed-ts folder), CSS modules (for styling the components);
+React (for building UI components), JavaScript (for the ignite-feed folder), TypeScript (for the ignite-feed-ts folder), CSS modules (for styling the components).
 
 ### License
 This project is open-source and available under the MIT License.
